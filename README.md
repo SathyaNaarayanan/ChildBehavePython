@@ -37,10 +37,13 @@ Loggers:
     Logger file name #LYFnGO-Logger.log is added under sub-directory package to view the log files
 
 Get the base Framework as a package:
+
     1. Add below text in requirement.txt file 
     git+https://github.com/username/BaseProject.git
+
     2. From terminal run the below command
     pip install -r requirement.txt
+
     3. If base project get new update the run the below command in terminal to use new function from Base framework.
     python -m pip uninstall BaseProject
     python -m pip install requirements.txt
