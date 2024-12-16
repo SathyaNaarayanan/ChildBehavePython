@@ -1,79 +1,79 @@
-2024-12-15 22:14:16,999 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
-2024-12-15 22:14:16,999 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
-2024-12-15 22:14:17,000 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
-2024-12-15 22:14:17,179 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username and password
-2024-12-15 22:14:17,179 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
-2024-12-15 22:14:17,667 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username and password
-2024-12-15 22:14:17,822 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
-2024-12-15 22:14:17,822 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
-2024-12-15 22:14:18,039 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
-2024-12-15 22:14:18,174 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
-2024-12-15 22:14:21,445 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
-2024-12-15 22:14:21,628 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on profile menu
-2024-12-15 22:14:21,628 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entered home screen - profile menu click
-2024-12-15 22:14:21,844 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on profile menu
-2024-12-15 22:14:22,108 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Logout option
-2024-12-15 22:14:22,109 - ChildFrameworkMain/LYFnGO-Logger - INFO - selecting logout option
-2024-12-15 22:14:23,319 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Logout option
-2024-12-15 22:14:23,471 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I acknowledge yes
-2024-12-15 22:14:23,472 - ChildFrameworkMain/LYFnGO-Logger - INFO - Logout from application acknowledged YES
-2024-12-15 22:14:24,636 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I acknowledge yes
-2024-12-15 22:14:24,781 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated back to login screen
-2024-12-15 22:14:24,782 - ChildFrameworkMain/LYFnGO-Logger - INFO - Navigate back to Login screen
-2024-12-15 22:14:25,491 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated back to login screen
-2024-12-15 22:14:31,307 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
-2024-12-15 22:14:31,308 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
-2024-12-15 22:14:31,308 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
-2024-12-15 22:14:31,438 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username and password
-2024-12-15 22:14:31,439 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
-2024-12-15 22:14:32,181 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username and password
-2024-12-15 22:14:32,320 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
-2024-12-15 22:14:32,320 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
-2024-12-15 22:14:32,536 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
-2024-12-15 22:14:32,681 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
-2024-12-15 22:14:35,849 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
-2024-12-15 22:14:35,970 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on profile menu
-2024-12-15 22:14:35,971 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entered home screen - profile menu click
-2024-12-15 22:14:36,244 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on profile menu
-2024-12-15 22:14:36,461 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Logout option
-2024-12-15 22:14:36,461 - ChildFrameworkMain/LYFnGO-Logger - INFO - selecting logout option
-2024-12-15 22:14:37,677 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Logout option
-2024-12-15 22:14:37,846 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I acknowledge no
-2024-12-15 22:14:37,846 - ChildFrameworkMain/LYFnGO-Logger - INFO - Logout from application acknowledged NO
-2024-12-15 22:14:39,018 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I acknowledge no
-2024-12-15 22:14:39,146 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I stay back to home screen
-2024-12-15 22:14:39,146 - ChildFrameworkMain/LYFnGO-Logger - INFO - Home screen
-2024-12-15 22:14:42,239 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I stay back to home screen
-2024-12-15 22:14:48,069 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
-2024-12-15 22:14:48,070 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
-2024-12-15 22:14:48,070 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
-2024-12-15 22:14:48,225 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and password as "Test@123"
-2024-12-15 22:14:48,226 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
-2024-12-15 22:14:48,842 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and password as "Test@123"
-2024-12-15 22:14:48,958 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
-2024-12-15 22:14:48,959 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
-2024-12-15 22:14:49,187 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
-2024-12-15 22:14:49,323 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
-2024-12-15 22:14:52,470 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
-2024-12-15 22:15:06,337 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
-2024-12-15 22:15:06,337 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
-2024-12-15 22:15:06,337 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
-2024-12-15 22:15:06,467 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@12221"
-2024-12-15 22:15:06,467 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and invalid password
-2024-12-15 22:15:07,066 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@12221"
-2024-12-15 22:15:07,193 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
-2024-12-15 22:15:07,193 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
-2024-12-15 22:15:07,457 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
-2024-12-15 22:15:07,587 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I verify error message
-2024-12-15 22:15:08,204 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I verify error message
-2024-12-15 22:15:14,620 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
-2024-12-15 22:15:14,621 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
-2024-12-15 22:15:14,621 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
-2024-12-15 22:15:14,778 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@1232"
-2024-12-15 22:15:14,778 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and invalid password
-2024-12-15 22:15:15,287 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@1232"
-2024-12-15 22:15:15,425 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
-2024-12-15 22:15:15,426 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
-2024-12-15 22:15:15,656 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
-2024-12-15 22:15:15,789 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I verify error message
-2024-12-15 22:15:16,392 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I verify error message
+2024-12-16 20:59:41,673 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
+2024-12-16 20:59:41,674 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
+2024-12-16 20:59:41,674 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
+2024-12-16 20:59:41,811 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username and password
+2024-12-16 20:59:41,811 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
+2024-12-16 20:59:42,493 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username and password
+2024-12-16 20:59:42,627 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
+2024-12-16 20:59:42,627 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
+2024-12-16 20:59:42,923 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
+2024-12-16 20:59:43,112 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
+2024-12-16 20:59:46,249 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
+2024-12-16 20:59:46,642 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on profile menu
+2024-12-16 20:59:46,642 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entered home screen - profile menu click
+2024-12-16 20:59:46,850 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on profile menu
+2024-12-16 20:59:47,101 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Logout option
+2024-12-16 20:59:47,101 - ChildFrameworkMain/LYFnGO-Logger - INFO - selecting logout option
+2024-12-16 20:59:48,293 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Logout option
+2024-12-16 20:59:48,458 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I acknowledge yes
+2024-12-16 20:59:48,458 - ChildFrameworkMain/LYFnGO-Logger - INFO - Logout from application acknowledged YES
+2024-12-16 20:59:49,548 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I acknowledge yes
+2024-12-16 20:59:49,658 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated back to login screen
+2024-12-16 20:59:49,659 - ChildFrameworkMain/LYFnGO-Logger - INFO - Navigate back to Login screen
+2024-12-16 20:59:50,230 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated back to login screen
+2024-12-16 20:59:56,236 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
+2024-12-16 20:59:56,236 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
+2024-12-16 20:59:56,237 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
+2024-12-16 20:59:56,652 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username and password
+2024-12-16 20:59:56,652 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
+2024-12-16 20:59:57,192 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username and password
+2024-12-16 20:59:57,335 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
+2024-12-16 20:59:57,335 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
+2024-12-16 20:59:57,541 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
+2024-12-16 20:59:57,686 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
+2024-12-16 21:00:00,904 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
+2024-12-16 21:00:01,102 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on profile menu
+2024-12-16 21:00:01,103 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entered home screen - profile menu click
+2024-12-16 21:00:01,775 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on profile menu
+2024-12-16 21:00:02,028 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Logout option
+2024-12-16 21:00:02,029 - ChildFrameworkMain/LYFnGO-Logger - INFO - selecting logout option
+2024-12-16 21:00:03,180 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Logout option
+2024-12-16 21:00:03,363 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I acknowledge no
+2024-12-16 21:00:03,364 - ChildFrameworkMain/LYFnGO-Logger - INFO - Logout from application acknowledged NO
+2024-12-16 21:00:04,527 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I acknowledge no
+2024-12-16 21:00:04,662 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I stay back to home screen
+2024-12-16 21:00:04,662 - ChildFrameworkMain/LYFnGO-Logger - INFO - Home screen
+2024-12-16 21:00:07,768 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I stay back to home screen
+2024-12-16 21:00:13,293 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
+2024-12-16 21:00:13,294 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
+2024-12-16 21:00:13,295 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
+2024-12-16 21:00:13,473 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and password as "Test@123"
+2024-12-16 21:00:13,473 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and password
+2024-12-16 21:00:14,447 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and password as "Test@123"
+2024-12-16 21:00:14,627 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
+2024-12-16 21:00:14,628 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
+2024-12-16 21:00:15,020 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
+2024-12-16 21:00:15,196 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I navigated to LfnGo home page
+2024-12-16 21:00:18,610 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I navigated to LfnGo home page
+2024-12-16 21:00:31,172 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
+2024-12-16 21:00:31,173 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
+2024-12-16 21:00:31,173 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
+2024-12-16 21:00:32,515 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@12221"
+2024-12-16 21:00:32,515 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and invalid password
+2024-12-16 21:00:33,157 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@12221"
+2024-12-16 21:00:33,292 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
+2024-12-16 21:00:33,293 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
+2024-12-16 21:00:33,490 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
+2024-12-16 21:00:33,637 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I verify error message
+2024-12-16 21:00:34,237 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I verify error message
+2024-12-16 21:00:39,583 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: Launched LfynGo login page
+2024-12-16 21:00:39,584 - ChildFrameworkMain/LYFnGO-Logger - INFO - Application launched
+2024-12-16 21:00:39,584 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: Launched LfynGo login page
+2024-12-16 21:00:39,712 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@1232"
+2024-12-16 21:00:39,713 - ChildFrameworkMain/LYFnGO-Logger - INFO - Entering username and invalid password
+2024-12-16 21:00:40,263 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I enter username as "poobesh0012@putsbox.com" and invalid password as "Test@1232"
+2024-12-16 21:00:40,391 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I click on Submit button
+2024-12-16 21:00:40,391 - ChildFrameworkMain/LYFnGO-Logger - INFO - click sunbmit button
+2024-12-16 21:00:40,599 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I click on Submit button
+2024-12-16 21:00:40,780 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step started: I verify error message
+2024-12-16 21:00:41,373 - ChildFrameworkMain/LYFnGO-Logger - INFO - function step passed: I verify error message
