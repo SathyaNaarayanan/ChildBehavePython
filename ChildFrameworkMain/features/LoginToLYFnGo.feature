@@ -1,6 +1,6 @@
 Feature: Test login functionality
 
-  @login
+  @login @one
   Scenario: Login with valid credentials
     Given Launched LfynGo login page
     When I enter username as "poobesh0012@putsbox.com" and password as "Test@123"

@@ -18,7 +18,7 @@ How to Run the test Execution:
     Method 1:
     In terminal use the below commands,
     1. behave <subDirectorypackage-name>/features #to run all the scenario in feature path
-    2. behave <subDirectorypackage-name>/features --tags@one #to run specific scenario
+    2. behave <subDirectorypackage-name>/features --tags=one #to run specific scenario
     
     Method 2:
     1. Add configuration of the feature path to execute

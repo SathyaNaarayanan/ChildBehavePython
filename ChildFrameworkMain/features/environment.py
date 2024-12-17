@@ -1,21 +1,22 @@
 from sys import exception
 import allure
 from allure_commons.types import AttachmentType
+from cffi.backend_ctypes import xrange
 from selenium.webdriver.remote.webdriver import WebDriver
 from ChildFrameworkMain.utilities import configReader
 from BaseBehavePython.features.environment import driver_close, logger_Predefined, driver_initialization, launchApplication
-from BaseBehavePython.utilities.DriverManager import *
+from BaseBehavePython.features.environment import getApplicationURL, getBrowser
 
+_configFilePath = "ChildFrameworkMain/configurations/config.ini"
 #hooks
 def before_all(context):
     context.logger = logger_Predefined("ChildFrameworkMain", "LYFnGO-Logger")
 
 def before_scenario(context, scenario):
     try:
-        context.driver = driver_initialization(getBrowser())
-        context.driver: WebDriver = DriverManager.get_driverInstance().get_driver()
+        context.driver: WebDriver = driver_initialization(getBrowser(_configFilePath))
         context.driver.maximize_window()
-        launchApplication(context.driver, getApplicationURL())
+        launchApplication(context.driver, getApplicationURL(_configFilePath))
     except Exception as e:
         context.logger.error(f"ERROR : {str(e)}")
         raise
@@ -50,12 +51,11 @@ def after_step(context, step):
 def after_scenario(context, scenario):
     driver_close(context.driver)
 
-def getApplicationURL():
-    return configReader.read_configuration("basic info", "url")
+def getApplicationURL(filePath):
+    return configReader.read_configuration(filePath, "basic info", "url")
 
-def getBrowser():
-    return configReader.read_configuration("basic info", "browser").lower()
-
+def getBrowser(filePath):
+    return configReader.read_configuration(filePath,"basic info", "browser").lower()
 
 
 

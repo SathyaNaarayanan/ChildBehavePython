@@ -1,7 +1,7 @@
 from configparser import ConfigParser
 
 #child
-def read_configuration(category, key):
+def read_configuration(filePath,category, key):
     config = ConfigParser()
-    config.read("ChildFrameworkMain/configurations/config.ini")
+    config.read(filePath)
     return config.get(category, key)
