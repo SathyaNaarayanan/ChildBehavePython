@@ -4,8 +4,8 @@ Feature: Logout from LYFnGo
   Scenario: Logout acknowledge successfull
     Given Launched LfynGo login page
     When I enter username and password
-    |email                    |password|
-    |poobesh0012@putsbox.com  |Test@123|
+    |email  |password|
+    |user1  |Test@123|
     And I click on Submit button
     Then I navigated to LfnGo home page
     Then I click on profile menu
@@ -17,8 +17,8 @@ Feature: Logout from LYFnGo
   Scenario: Logout not acknowledge
     Given Launched LfynGo login page
     When I enter username and password
-    |email                    |password|
-    |poobesh0012@putsbox.com  |Test@123|
+    |email |password|
+    |usr1  |Test@123|
     And I click on Submit button
     Then I navigated to LfnGo home page
     Then I click on profile menu
