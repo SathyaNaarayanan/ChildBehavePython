@@ -3,7 +3,7 @@ Feature: Test login functionality
   @login @one
   Scenario: Login with valid credentials
     Given Launched LfynGo login page
-    When I enter username as "poobesh0012@putsbox.com" and password as "Test@123"
+    When I enter username as "user1" and password as "Test@123"
     When I click on Submit button
     Then I navigated to LfnGo home page
 
@@ -14,7 +14,7 @@ Feature: Test login functionality
     When I click on Submit button
     Then I verify error message
     Examples:
-    |email                  |password|
-    |poobesh0012@putsbox.com|Test@12221|
-    |poobesh0012@putsbox.com|Test@1232|
+    |email|password|
+    |user1|Test@12221|
+    |user2|Test@1232|
 
